@@ -10,6 +10,6 @@ The objective of this project is to evaluate the provided data and generate insi
 
 - Coffee Coupons: Nearly 50% of individuals accept coffee coupons, with men being slightly more receptive. Acceptance drops to 36% when drivers are headed home. Professionals in "Healthcare" and "Cleaning & Maintenance" show the highest acceptance at 74% and 72%, respectively. Students also have a high acceptance rate of 62%. Notably, drivers accompanied by peers show a higher propensity to accept these coupons than solo drivers or those with kids.
 
-## Link to the Jupyter notebook.
+## Link to the Jupyter notebook
 
 [link](https://github.com/iffj/ai-ml-portfolio/blob/main/assignment_1/prompt.ipynb)
